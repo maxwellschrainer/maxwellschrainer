@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Maxwell Schrainer</h1>
 <h3 align="center">A man who loves programming</h3>
 
-- 🌱 I’m currently learning **HTML, CSS and JavaScript**
+- 🌱 I’m currently learning **PostGreSQL and C#**
 
 <h3 align="left">Languages and Tools</h3>
 
