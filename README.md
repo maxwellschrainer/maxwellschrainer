@@ -9,7 +9,7 @@
 
 <div>
   <a href="https://www.w3.org/Style/CSS/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
   </a>
   <a href="https://html.spec.whatwg.org/multipage/">
   <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
