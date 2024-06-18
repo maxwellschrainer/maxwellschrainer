@@ -8,8 +8,12 @@
 <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=maxwellschrainer&layout=compact&langs_count=7&theme=dracula"/>
 
 <div>
-  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <a href="https://www.w3.org/Style/CSS/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  </a>
+  <a href="https://html.spec.whatwg.org/multipage/">
   <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  </a>
   <a href="https://www.oracle.com/java/">
     <img height="50px "src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
   </a>
