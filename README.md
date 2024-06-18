@@ -17,5 +17,8 @@
   <a href="https://www.oracle.com/java/">
     <img height="50px "src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
   </a>
+  <a href="https://dotnet.microsoft.com/en-us/languages/csharp">
+   <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+  </a>
 </div>
 
