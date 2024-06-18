@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maxwell Schrainer</h1>
-<h3 align="center">A man who loves programming</h3>
+<h3 align="center">Just a brazilian guy trying to be a developer</h3>
 
 - 🌱 I’m currently learning **PostGreSQL, Java and C#**
 
