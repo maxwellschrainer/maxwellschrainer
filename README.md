@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Maxwell Schrainer</h1>
-<h3 align="center">Just a brazilian guy trying to be a developer</h3>
+<h3 align="center">A Brazilian guy becoming a developer</h3>
 
-- 🌱 I’m currently learning **PostGreSQL, Java and C#**
+- 🌱 I’m currently learning **PostGreSQL and C#**
 
 <h3 align="left">Languages and Tools</h3>
 
