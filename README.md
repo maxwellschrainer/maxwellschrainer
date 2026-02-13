@@ -1,9 +1,8 @@
-<h1 align="center">Hi 👋, I'm Maxwell Schrainer</h1>
-<h3 align="center">A Brazilian guy becoming a developer</h3>
+<h1 align="center">Olá 👋, me chamo Maxwell Schrainer</h1>
 
-- 🌱 I’m currently learning **Java, PostGreSQL and C#**
+- 🌱 Atualmente estou estudando **PostGreSQL and C#**
 
-<h3 align="left">Languages and Tools</h3>
+<h3 align="left">Linguagens e ferramentas</h3>
 
 <div>
   <a href="https://html.spec.whatwg.org/multipage/">
