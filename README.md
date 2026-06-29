@@ -1,6 +1,6 @@
-<h1 align="center">Olá 👋, me chamo Maxwell Schrainer</h1>
+<h1 align="center">Hello 👋, I'm Maxwell Schrainer</h1>
 
-- 🌱 Atualmente estou estudando **PostGreSQL and C#**
+- 🌱 I am currently studying **PostgreSQL and C#**, and pursuing a degree in **Systems Analysis and Development**.
 
 <h3 align="left">Linguagens e ferramentas</h3>
 
